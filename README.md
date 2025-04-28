@@ -67,7 +67,6 @@ Final project in the "Data analyst" direction on KarpovCourse (variant_1)
 ## Структура репозитория
 
 - *`final_project.ipynb`* — jupyter ноутбук с выполненным анализом данных
-- *`requirements.txt`* - файл со списком Python-библиотек, необходимых для воспроизведения результатов.
 
 ## Используемые технологии
 
